@@ -67,20 +67,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmuxz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
-### 🏆 Top Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nmuxz&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
