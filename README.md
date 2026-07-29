@@ -55,6 +55,7 @@
 * **[learnify](https://github.com/nmuxz/learnify)** - Learning application built with Dart
 * **[laravel-api-auth](https://github.com/nmuxz/laravel-api-auth)** - API authentication boilerplate using Laravel
 * **SAPA** - Application system (Backend/Web Development)
+* **Kost-Indah** - Boarding House Management (Backend/Web Development)
 
 ---
 
