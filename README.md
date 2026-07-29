@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning deeper into **API Development with Laravel** & **Mobile App with Flutter (Dart)**
 - 👯 I’m looking to collaborate on **Open Source Backend Projects**
 - 💬 Ask me about **PHP, Laravel, MySQL, and PostgreSQL**
-- 📫 How to reach me: **https://www.linkedin.com/in/ruslan-bahreisy-s-hi-gafar-244542408**  && **ruslanbahreisy205@gmail.com**  *(Isi dengan kontak Anda jika ada)*
+- 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/ruslan-bahreisy-s-hi-gafar-244542408)**  && **[Gmail](ruslanbahreisy205@gmail.com)**  *(Isi dengan kontak Anda jika ada)*
 
 ---
 
