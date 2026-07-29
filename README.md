@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Ruslan Bahreisy S Hi Gafar! 👨‍💻</h1>
-<h3 align="center">Backend & Web Developer | Laravel Enthusiast</h3>
+<h3 align="center">Backend & Web Developer | Data Analytics</h3>
 
 
 ---
@@ -23,8 +23,8 @@
   <!-- Backend & Programming Languages -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" title="Laravel" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" title="Flutter" />
+  <!-- <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Dart" /> -->
+  <!-- <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" title="Flutter" /> -->
   <br>
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" />
@@ -51,9 +51,9 @@
 ---
 
 ### 📂 My Recent Projects
-* **[pesona-tegal](https://github.com/nmuxz/pesona-tegal)** - Web UI Project using CSS/HTML
+* **[pesona-tegal](https://github.com/nmuxz/pesona-tegal)** - Web UI Project using CSS/HTML 
 * **[learnify](https://github.com/nmuxz/learnify)** - Learning application built with Dart
-* **[laravel-api-auth](https://github.com/nmuxz/laravel-api-auth)** - API authentication boilerplate using Laravel
+* **[learnify-API](https://github.com/nmuxz/laravel-api-auth)** - API authentication boilerplate using Laravel 
 * **SAPA** - Application system (Backend/Web Development) (Private)
 * **Kost_Indah** - Boarding House Management (Backend/Web Development) (Private)
 
