@@ -7,7 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=51&descAlign=50" />
 </div>
 
-<h1 align="center">Hi, I'm <YOUR_NAME>! 👨‍💻</h1>
+<h1 align="center">Hi, I'm <Ruslan Bahreisy S Hi Gafar>! 👨‍💻</h1>
 <h3 align="center">A passionate developer crafting elegant solutions.</h3>
 
 <p align="center">
@@ -28,8 +28,8 @@
 - 🔭 I’m currently working on **Awesome Projects (e.g., Laravel, Web Apps)**
 - 🌱 I’m currently learning **[Something you are learning]**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **PHP, Laravel, Web Development**
-- 📫 How to reach me: **your.email@example.com**
+- 💬 Ask me about **PHP, Laravel, Web Development, Postgresql, MySQL**
+- 📫 How to reach me: **ruslanbahreisy205@gmail.com**
 
 ---
 
@@ -59,8 +59,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_ANDA&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nmuxz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmuxz&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br>
