@@ -7,7 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=51&descAlign=50" />
 </div>
 
-<h1 align="center">Hi, I'm <Ruslan Bahreisy S Hi Gafar>! 👨‍💻</h1>
+<h1 align="center">Hi, I'm Ruslan Bahreisy S Hi Gafar! 👨‍💻</h1>
 <h3 align="center">A passionate developer crafting elegant solutions.</h3>
 
 <p align="center">
