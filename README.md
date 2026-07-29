@@ -11,13 +11,10 @@
 <h3 align="center">A passionate developer crafting elegant solutions.</h3>
 
 <p align="center">
-  <a href="https://github.com/USERNAME_GITHUB_ANDA">
-    <img src="https://img.shields.io/github/followers/USERNAME_GITHUB_ANDA?label=Followers&style=social" alt="GitHub followers">
+  <a href="https://github.com/nmuxz">
+    <img src="https://img.shields.io/github/followers/nmuxz?label=Followers&style=social" alt="GitHub followers">
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?label=Twitter&style=social" alt="Twitter">
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/ruslan-bahreisy-s-hi-gafar-244542408">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -36,14 +33,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br>
-  <!-- Backend / Languages -->
+    <!-- Backend / Languages -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -73,7 +63,7 @@
 
 ### 🏆 Top Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_GITHUB_ANDA&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nmuxz&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
 </div>
 
 <br>
