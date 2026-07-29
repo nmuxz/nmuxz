@@ -62,8 +62,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmuxz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="nmuxz's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nmuxz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="nmuxz's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmuxz&theme=radical&hide_border=true&background=0D1117" alt="nmuxz's GitHub Streak" />
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nmuxz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
