@@ -5,11 +5,6 @@
 <h1 align="center">Hi, I'm Ruslan Bahreisy S Hi Gafar! 👨‍💻</h1>
 <h3 align="center">Backend & Web Developer | Laravel Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/nmuxz">
-    <img src="https://img.shields.io/github/followers/nmuxz?label=Followers&style=social" alt="GitHub followers">
-  </a>
-</p>
 
 ---
 
@@ -18,7 +13,7 @@
 - 🌱 I’m currently learning deeper into **API Development with Laravel** & **Mobile App with Flutter (Dart)**
 - 👯 I’m looking to collaborate on **Open Source Backend Projects**
 - 💬 Ask me about **PHP, Laravel, MySQL, and PostgreSQL**
-- 📫 How to reach me: **[LinkedIn/Email]** *(Isi dengan kontak Anda jika ada)*
+- 📫 How to reach me: **https://www.linkedin.com/in/ruslan-bahreisy-s-hi-gafar-244542408**  && **ruslanbahreisy205@gmail.com**  *(Isi dengan kontak Anda jika ada)*
 
 ---
 
