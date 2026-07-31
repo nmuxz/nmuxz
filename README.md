@@ -54,8 +54,8 @@
 * **[pesona-tegal](https://github.com/nmuxz/pesona-tegal)** - Web UI Project using CSS/HTML 
 * **[learnify](https://github.com/nmuxz/learnify)** - Learning application built with Dart
 * **[learnify-API](https://github.com/nmuxz/laravel-api-auth)** - API authentication boilerplate using Laravel 
-* **SAPA** - Application system (Backend/Web Development) (Private)
-* **Kost_Indah** - Boarding House Management (Backend/Web Development) (Private)
+* **[SAPA](https://github.com/nmuxz/SAPA)** - Application system (Backend/Web Development) (Private)
+* **[Kost_Indah](https://github.com/nmuxz/Kost_Indah)** - Boarding House Management (Backend/Web Development) (Private)
 
 ---
 
