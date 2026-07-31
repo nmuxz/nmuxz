@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **SAPA**, **Kost_Indah** (Boarding House Management) and **[learnify](https://github.com/nmuxz/learnify)**
+- 🔭 I’m currently working on **[SAPA](https://github.com/nmuxz/SAPA)** and **[Kost_Indah](https://github.com/nmuxz/Kost_Indah)** 
 - 🌱 I’m currently learning deeper into **API Development with Laravel**
 - 👯 I’m looking to collaborate on **Open Source Backend Projects**
 - 💬 Ask me about **PHP, Laravel, MySQL, and PostgreSQL**
