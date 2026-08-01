@@ -53,6 +53,7 @@
 ### 📂 My Recent Projects
 * **[SAPA](https://github.com/nmuxz/SAPA)** - Application system (Backend/Web Development)
 * **[Kost_Indah](https://github.com/nmuxz/Kost_Indah)** - Boarding House Management (Backend/Web Development)
+* **[Morfiqo](https://github.com/nmuxz/Morfiqo)** - Smart Sizing E-Commerce API
 * **[pesona-tegal](https://github.com/nmuxz/pesona-tegal)** - Web UI Project using CSS/HTML 
 * **[learnify](https://github.com/nmuxz/learnify)** - Learning application built with Dart
 * **[learnify-API](https://github.com/nmuxz/laravel-api-auth)** - API authentication boilerplate using Laravel 
